@@ -5,3 +5,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YasuhiroNagahama&theme=dark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+## 学習項目
+- C#
+- .NET
+- SQLServer
+- PowerShell
+- Git
+- GitHub
+- WindowsServer
+- XAML

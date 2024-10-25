@@ -7,11 +7,15 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 学習項目
-- C#
-- .NET
-- SQLServer
-- PowerShell
-- Git
-- GitHub
-- WindowsServer
-- XAML
+| 項目          | 学習状況 | 備考                      |
+| ------------- | -------- | ------------------------- |
+| C#            | 未学習   | -                         |
+| .NET          | 未学習   | -                         |
+| SQL Server    | 未学習   | -                         |
+| PowerShell    | 未学習   | -                         |
+| Git           | 未学習   | -                         |
+| GitHub        | 未学習   | -                         |
+| Windows Server | 未学習   | -                         |
+| XAML          | 未学習   | -                         |
+| Printer | 未学習   | -                         |
+| Barcode          | 未学習   | -                         |

@@ -1,12 +1,8 @@
-<div align="center" style="display: flex; justify-content: space-between; gap: 10px;">
-  <img alt="Top Langs" src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=yasuhirotakemura" width="49%"/>
-  <img alt="Top Langs" src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=yasuhirotakemura" width="49%"/>
-</div>
-
-<div align="center">
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=YasuhiroTakemura&theme=dark&show_icons=true" width="100%"/>
-</div>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasuhirotakemura&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasuhirotakemura&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasuhirotakemura&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasuhirotakemura&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yasuhirotakemura&theme=default&utcOffset=8)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YasuhiroTakemura&theme=dark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)

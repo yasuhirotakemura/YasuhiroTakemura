@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; justify-content: space-between; gap: 10px;">
-  <img alt="Top Langs" src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=yasuhirotakemura"/>
-  <img alt="Top Langs" src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=yasuhirotakemura"/>
+  <img alt="Top Langs" src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=yasuhirotakemura" width="100%"/>
+  <img alt="Top Langs" src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=yasuhirotakemura" width="100%"/>
 </div>
 
 <div align="center">

@@ -1,5 +1,6 @@
 <p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasuhiroTakemura&layout=compact&show_icons=true&theme=dark" />
+  <img alt="Top Langs" height="200px" src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=yasuhirotakemura" />
+  <img alt="Top Langs" height="200px" src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=yasuhirotakemura" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=YasuhiroTakemura&theme=dark&show_icons=ture" />
 </p>
 

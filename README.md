@@ -1,17 +1,12 @@
-<table align="center" style="width:100%">
-  <tr>
-    <td width="50%">
-      <img alt="Top Langs" src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=yasuhirotakemura" width="100%"/>
-    </td>
-    <td width="50%">
-      <img alt="Top Langs" src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=yasuhirotakemura" width="100%"/>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img alt="Top Langs" src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=yasuhirotakemura" width="49%"/>
+  <img alt="Top Langs" src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=yasuhirotakemura" width="49%"/>
+</div>
 
-<p align="center">
+<div align="center">
   <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=YasuhiroTakemura&theme=dark&show_icons=true" width="100%"/>
-</p>
+</div>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YasuhiroTakemura&theme=dark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)

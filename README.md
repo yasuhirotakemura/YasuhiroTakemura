@@ -1,4 +1,4 @@
-<table align="center" width="100%">
+<table align="center" style="width:100%">
   <tr>
     <td width="50%">
       <img alt="Top Langs" src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=yasuhirotakemura" width="100%"/>

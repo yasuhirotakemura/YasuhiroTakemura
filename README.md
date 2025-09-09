@@ -5,4 +5,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yasuhirotakemura&theme=default&utcOffset=8)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YasuhiroTakemura&theme=dark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)]
+)](https://github.com/ryo-ma/github-profile-trophy)

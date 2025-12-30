@@ -118,6 +118,4 @@ git checkout -b release/issue-22-v1.0.0
 * `hotfix/` は最小修正・即マージを前提
 * `release/` ブランチでは新機能を追加しない
 
-```
-
 ---
